@@ -1,8 +1,6 @@
-# pokedex-vue
+# Pokédex Vue
 
-# Pokédex Vue App
-
-¡Bienvenido a la Pokédex Vue App! Este proyecto es parte de mi prueba técnica. La aplicación fue desarrollada utilizando Vue.js, vue-router para el enrutamiento y Pinia para gestionar el estado de la aplicación. Con esta Pokédex, podrás explorar información detallada sobre diferentes Pokémon, desde sus habilidades hasta sus estadísticas.
+¡Bienvenido a la Pokédex Vue App! Este proyecto es parte de mi prueba técnica. La aplicación fue desarrollada utilizando Vue.js, vue-router para el enrutamiento y Pinia para gestionar el estado de la aplicación. Con esta Pokédex, podrás explorar información detallada sobre diferentes Pokémon.
 
 Antes que nada, asegúrate de tener Node.js y npm instalados en tu sistema.
 
